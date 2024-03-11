@@ -96,9 +96,9 @@ const questions = [
     explanation: "The continue statement skips the rest of the current iteration of a loop and continues with the next iteration."
   },
   {
-    question: "How are pointers used in C++?",
-    options: ["To store addresses of variables", "To perform arithmetic operations", "To declare variables", "To define class methods"],
-    answer: "To store addresses of variables",
+    question: "Which of the following is the correct syntax to print the message in C++ language?",
+    options: ["cout <<'Hello world!';", "Cout << Hello world! ;", "Out <<'Hello world!';", "None of the above"],
+    answer: "cout <<'Hello world!';",
     explanation: "Pointers are variables that store memory addresses, allowing you to work with memory directly in C++."
   },
   {
