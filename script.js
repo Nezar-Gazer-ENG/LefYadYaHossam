@@ -96,10 +96,10 @@ const questions = [
     explanation: "The continue statement skips the rest of the current iteration of a loop and continues with the next iteration."
   },
   {
-    question: "Which of the following is the correct syntax to print the message in C++ language?",
-    options: ["cout <<'Hello world!';", "Cout << Hello world! ;", "Out <<'Hello world!';", "None of the above"],
-    answer: "cout <<'Hello world!';",
-    explanation: "Pointers are variables that store memory addresses, allowing you to work with memory directly in C++."
+    question: "What is the difference between ++i and i++ in C++?",
+    options: ["++i increments the value of i and then returns it, while i++ returns the value of i and then increments it", "++i returns the value of i and then increments it, while i++ increments the value of i and then returns it", "Both ++i and i++ have the same behavior", "++i and i++ cannot be used in C++"],
+    answer: "++i increments the value of i and then returns it, while i++ returns the value of i and then increments it",
+    explanation: "In C++, ++i (pre-increment) increments the value of i and then returns it, while i++ (post-increment) returns the value of i and then increments it."
   },
   {
     question: "What is the syntax for defining a setter method in C++?",
